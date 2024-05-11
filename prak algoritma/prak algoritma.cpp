@@ -29,7 +29,7 @@ public:
 		newNode->next = top;
 		top = newNode;
 		cout << "push value: " << value << endl;
-		
+		return value;
 	}
 
 
