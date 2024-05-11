@@ -14,3 +14,18 @@ public:
 	}
 };
 
+class Stack {
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
