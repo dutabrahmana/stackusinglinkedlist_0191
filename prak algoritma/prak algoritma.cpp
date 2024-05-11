@@ -28,7 +28,8 @@ public:
 		newNode->data = value;
 		newNode->next = top;
 		top = newNode;
-		c
+		cout << "push value: " << value << endl;
+		
 	}
 
 
